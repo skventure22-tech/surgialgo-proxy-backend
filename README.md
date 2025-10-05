@@ -1,2 +1,2 @@
-# surgialgo-proxy-backend
-Delta Exchange Algo Proxy for SurgiAlgo
+# SurgiAlgo Proxy Backend
+Delta Exchange Testnet Proxy for SurgiAlgo
