@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 {
   "name": "surgialgo-proxy-backend",
   "version": "1.0.0",
@@ -14,7 +14,7 @@
     "node-fetch": "^3.3.2"
   }
 }
-=======
+
 {
   "name": "surgialgo-proxy-backend",
   "version": "1.0.0",
@@ -29,4 +29,3 @@
     "node-fetch": "^3.3.2"
   }
 }
->>>>>>> 8f4e98af92a817746f92adb6e66ec0df0529587a
