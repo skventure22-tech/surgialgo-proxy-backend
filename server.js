@@ -9,7 +9,11 @@ app.use(express.json());
 // ✅ Allow requests from frontend
 app.use(
   cors({
-    origin: ["https://surgialgo.shop"],
+     origin: [
+      "https://surgialgo.shop",     // Hostinger frontend
+      "https://www.surgialgo.shop", // if www is used
+      "http://localhost:5173"       // for local dev (Vite)
+    ],
     methods: ["GET", "POST"],
     allowedHeaders: ["Content-Type", "api-key", "timestamp", "signature"],
   })
